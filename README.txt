@@ -1,6 +1,6 @@
-Sci-Fi by Anne Starley
+# Sci-Fi by Anne Starley
 
-This website was made for my Galvanize HTML and CSS Unit 4 project. The website highlights a small portion of my favorite science fiction films. It also briefly reviews the history of science fiction and details a few of my early experiences with the genre
+### This website was made for my Galvanize HTML and CSS Unit 4 project as a practice for my newly learned CSS/HTML skills. The website highlights a small portion of my favorite science fiction films. It also briefly reviews the history of science fiction and details a few of my early experiences with the genre
 
 Credits:
 
